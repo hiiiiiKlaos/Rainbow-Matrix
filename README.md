@@ -1,5 +1,5 @@
 # Rainbow-Matrix
-Hello, welcome to my rainbow matrix console application.
+Hello, welcome to my rainbow matrix program.
 
 To use this program, you must install the requried librarys down below in your terminal:
 > pip3 install colorama
